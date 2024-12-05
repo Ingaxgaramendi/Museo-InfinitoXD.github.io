@@ -17,3 +17,16 @@ Rincón de Novedades: Un espacio dedicado a la promoción de nuevos artistas y s
 
 ![image](https://github.com/user-attachments/assets/296f8134-b15c-4dfe-9bae-b126e2551c5a)
 
+# Museo Infinito
+
+## Descripción
+
+**Museo Infinito** es un museo virtual innovador que permite a los usuarios explorar colecciones de arte y exposiciones de museos de todo el mundo. La plataforma ofrece experiencias inmersivas 360° que permiten explorar arte de manera interactiva y accesible desde cualquier lugar del mundo. Además, el proyecto da visibilidad a artistas emergentes y promueve el acceso a la cultura sin restricciones geográficas. Con un enfoque en la educación y la cultura, **Museo Infinito** busca democratizar el arte a través de su acceso en línea.
+
+## Instalación
+
+Para ejecutar **Museo Infinito** en tu máquina local, sigue estos pasos:
+
+1. **Clonar el repositorio:**
+   ```bash
+   git clone https://github.com/ingaxgaramendi/museo-infinitoxd.git
